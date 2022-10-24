@@ -8,4 +8,7 @@ def lookup(obj):
     Returns a list object
     '''
     return dir(obj)
+<<<<<<< HEAD
 Footer
+=======
+>>>>>>> main
